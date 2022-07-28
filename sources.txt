@@ -1,0 +1,70 @@
+1. Hero patters - бесшовные текстуры для бекграунда
+
+https://heropatterns.com/
+
+2. Type fit API - массив с цитатами
+
+https://type.fit/api/quotes
+
+3. Loading io - создание кастомизируемого лоадера
+
+https://loading.io/
+
+4. Google fonts - шрифты
+
+https://fonts.google.com
+
+5. Unsplash - API с красивыми картинками
+
+https://unsplash.com/
+
+6. Joke API - API с шутками
+
+https://sv443.net/jokeapi/v2/
+
+7. Giphy - сайт с гифками
+
+https://giphy.com/
+
+8. VoiceRSS - из текста в речь
+
+http://www.voicerss.org/api/
+
+e080436ac4354cbd826d38ffa3366c8c
+
+9. UnDraw - всякие SVG картинки
+
+https://undraw.co/illustrations
+
+10. Prototypr - всякая дизайнерская хрень 
+
+https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637
+
+https://blog.prototypr.io/
+
+11. Tailwind - фреймворк для css
+
+https://tailwindcss.com/
+
+12. HTMLFormatter - редактор HTML кода
+
+https://htmlformatter.com/
+
+13. Animate-on-scroll-library 
+
+https://michalsnik.github.io/aos/
+
+14. Random User Generator - API для получения рандомных фото людей
+
+https://randomuser.me/
+
+15. Faster third party - быстрее загружать сторонние библиотеки чем контент
+
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript
+
+16. Paletton - подбор цвета, удобная палитра
+
+https://paletton.com/
+
+
+
