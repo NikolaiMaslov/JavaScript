@@ -66,5 +66,14 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 
 https://paletton.com/
 
+17. Pixabay - картинки/видео
+
+https://pixabay.com
+
+18. YouCompress - сжимает видео для background'a
+
+https://www.youcompress.com/
+
+
 
 

@@ -55,7 +55,6 @@ h2 {
   font-weight: normal;
 }
 
-/* Navigation */
 nav {
   z-index: 10;
   position: fixed;
@@ -83,12 +82,10 @@ a:focus {
   border-bottom: 3px solid;
 }
 
-/* Home Section */
 .title-group {
   text-align: center;
 }
 
-/* About Section */
 .about-container {
   display: flex;
 }
@@ -108,7 +105,6 @@ img {
   width: 300px;
 }
 
-/* Projects Section */
 .buttons {
   margin-top: 15px;
   margin-bottom: 50px;
@@ -178,7 +174,6 @@ p {
   line-height: 25px;
 }
 
-/* Contact Section */
 .fab {
   font-size: 100px;
   margin-right: 50px;
@@ -190,7 +185,6 @@ p {
   color: var(--on-background);
 }
 
-/* Dark Mode Toggle */
 .theme-switch-wrapper {
   display: flex;
   align-items: center;
