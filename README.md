@@ -1,13 +1,13 @@
-[RU]  
+[RU]
 
 Небольшие проекты для портфолио, с хорошими источниками для фронт разработки.  
-sources.txt содержит все библиотеки/сайты которые были использованы в этих проектах.  
+sources.txt содержит все библиотеки/сайты которые были использованы в этих проектах.
 
-Использованные технологии:  
+Использованные технологии:
 
-- HTML5;  
-- CSS3;  
-- Javascript Native (ES6);  
+- HTML5;
+- CSS3;
+- Javascript Native (ES6);
 
 Немного информации о проектах:  
 01 - Генератор цитат, использующий API с цитатами;  
@@ -18,18 +18,19 @@ sources.txt содержит все библиотеки/сайты которы
 06 - Шаблон сайта с анимациями угасания и т.д.;  
 07 - Анимациия в навигационном меню;  
 08 - Аудиоплеер с настраиваемым стилем;  
-09 - Таймер с запоминанием с локальном хранилище;  
+09 - Таймер с запоминанием с локальным хранилищем;  
+10 - Закладки с сайтами;  
 
-[EN]  
+[EN]
 
 Just some simple projects for portfolio, with nice sources for front-end development.  
-sources.txt includes all libraries/sites that were used in these projects.  
+sources.txt includes all libraries/sites that were used in these projects.
 
-Using technologies:  
+Using technologies:
 
-- HTML5;  
-- CSS3;  
-- Javascript Native (ES6);  
+- HTML5;
+- CSS3;
+- Javascript Native (ES6);
 
 Some info little projects:  
 01 - Quote generator, using API with quotes;  
@@ -40,4 +41,5 @@ Some info little projects:
 06 - Animated template of site with like fade or flip;  
 07 - Navigation animation with burger menu;  
 08 - Music player with custom style, not like default HTML audio element;  
-09 - Countdown with local storage;
+09 - Countdown with local storage;  
+10 - Bookmarks for web-sites;  
